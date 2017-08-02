@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+  text-align: center;
+}
+
+p.intro {
+  padding: 0px 30px;
+}
+
+h2.intro {
+  font-family: 'Oswald', sans-serif;
+}
+
+img.intro {
+  width: 30%;
+  margin-right: 10px;
+}
