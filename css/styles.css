@@ -5,7 +5,7 @@ body {
 }
 
 p.intro {
-  padding: 0px 30px;
+  text-align:justify;
 }
 
 h2.intro {
@@ -13,6 +13,9 @@ h2.intro {
 }
 
 img.intro {
-  width: 30%;
-  margin-right: 10px;
+  width: 100%;
+}
+div {
+  width: 60%;
+  margin: 0 auto;
 }
