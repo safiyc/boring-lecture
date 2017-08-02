@@ -3,19 +3,18 @@
 body {
   text-align: center;
 }
-
-p.intro {
-  text-align:justify;
+.intro {
+  text-align: justify;
 }
 
-h2.intro {
+h2 {
   font-family: 'Oswald', sans-serif;
 }
 
-img.intro {
+img {
   width: 100%;
 }
-div {
+div.intro {
   width: 60%;
   margin: 0 auto;
 }
